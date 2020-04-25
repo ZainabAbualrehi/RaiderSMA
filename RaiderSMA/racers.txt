@@ -1,0 +1,7 @@
+Lewis, Hamilton, 44
+Valtteri, Bottas, 77
+Sebastian, Vettel, 5
+Charles, Leclerc, 16
+Pierre, Gasly, 10
+Max, Verstappen, 33
+Nico, Hulkenberg, 27
